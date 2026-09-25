@@ -1,1 +1,31 @@
+# DATASET INFORMATION
+
+Project: Breast Cancer Histopathology Image Classification
+
+The dataset used in this project is the Breast Histopathology Images
+dataset, which contains histopathology images used for breast cancer
+classification.
+
+Due to the large size of the dataset, the complete dataset is not
+included in this GitHub repository.
+
+Dataset Source:
+Kaggle
+
+Dataset Link:
+https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
+Instructions:
+
+1. Open the dataset link provided above.
+2. Download the complete dataset from Kaggle.
+3. Extract the downloaded files.
+4. Place the extracted dataset in the appropriate dataset directory
+   specified in the project structure.
+5. Run the `cancer_pred.ipynb` notebook.
+
+Note:
+The dataset is hosted on Kaggle and is not redistributed as part of
+this repository. Please refer to the original Kaggle dataset page for
+the dataset description, files, and applicable license/usage terms.
 
